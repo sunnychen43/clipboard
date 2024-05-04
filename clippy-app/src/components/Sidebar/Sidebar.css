@@ -1,0 +1,7 @@
+.Sidebar {
+  border-right: solid var(--gray-10);
+  padding-right: 0.5rem;
+  padding-top: 0.5rem;
+  height: 100vh;
+  min-width: 20rem;
+}
